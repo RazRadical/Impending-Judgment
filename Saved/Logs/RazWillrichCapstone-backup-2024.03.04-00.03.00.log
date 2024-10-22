@@ -1,0 +1,1667 @@
+﻿Log file open, 03/03/24 15:56:17
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: RazWillrichCapstone
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.596142
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/RazRa/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz, GPU: Intel(R) Iris(R) Plus Graphics
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Engine.ini]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Engine.ini]
+[2024.03.03-23.56.21:125][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Engine.ini]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.03.03-23.56.21:125][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Engine.ini]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.03.03-23.56.21:126][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Engine.ini]
+[2024.03.03-23.56.21:126][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Engine.ini]
+[2024.03.03-23.56.21:151][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:151][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.03.03-23.56.21:151][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.03.03-23.56.21:152][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.03.03-23.56.21:153][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.03.03-23.56.21:154][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.03.03-23.56.21:154][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.03.03-23.56.21:154][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.03.03-23.56.21:154][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.03.03-23.56.21:154][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.03.03-23.56.21:154][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.03.03-23.56.21:155][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.03.03-23.56.21:155][  0]LogInit: Selected Device Profile: [Windows]
+[2024.03.03-23.56.21:155][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.03.03-23.56.21:156][  0]LogHAL: Display: Platform has ~ 32 GB [33925734400 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.03.03-23.56.21:156][  0]LogInit: Going up to parent DeviceProfile []
+[2024.03.03-23.56.21:156][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.03.03-23.56.21:156][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.03.03-23.56.21:157][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.03.03-23.56.21:158][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.03.03-23.56.21:159][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Scalability.ini]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.03.03-23.56.21:160][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.03.03-23.56.21:172][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.03.03-23.56.21:172][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.03.03-23.56.21:172][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.03.03-23.56.21:172][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Engine.ini]
+[2024.03.03-23.56.21:172][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Config/Windows/Editor.ini]
+[2024.03.03-23.56.21:172][  0]LogInit: Computer: RAZADONPC
+[2024.03.03-23.56.21:172][  0]LogInit: User: RazRa
+[2024.03.03-23.56.21:172][  0]LogInit: CPU Page size=4096, Cores=4
+[2024.03.03-23.56.21:172][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.03.03-23.56.21:172][  0]LogMemory: Memory total: Physical=31.6GB (32GB approx)
+[2024.03.03-23.56.21:173][  0]LogMemory: Platform Memory Stats for Windows
+[2024.03.03-23.56.21:173][  0]LogMemory: Process Physical Memory: 137.34 MB used, 137.34 MB peak
+[2024.03.03-23.56.21:173][  0]LogMemory: Process Virtual Memory: 118.87 MB used, 118.87 MB peak
+[2024.03.03-23.56.21:173][  0]LogMemory: Physical Memory: 12139.12 MB used,  20214.98 MB free, 32354.10 MB total
+[2024.03.03-23.56.21:173][  0]LogMemory: Virtual Memory: 134193872.00 MB used,  23854.62 MB free, 134217728.00 MB total
+[2024.03.03-23.56.21:193][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.03.03-23.56.21:254][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.03.03-23.56.21:255][  0]LogInit: Using OS detected language (en-US).
+[2024.03.03-23.56.21:255][  0]LogInit: Using OS detected locale (en-US).
+[2024.03.03-23.56.21:265][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2024.03.03-23.56.22:012][  0]LogInit: Setting process to per monitor DPI aware
+[2024.03.03-23.56.22:063][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.03-23.56.22:163][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.03.03-23.56.22:163][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.03.03-23.56.28:682][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.03.03-23.56.28:682][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.03.03-23.56.28:682][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.03.03-23.56.28:682][  0]LogD3D11RHI: D3D11 adapters:
+[2024.03.03-23.56.29:132][  0]LogD3D11RHI:    0. 'Intel(R) Iris(R) Plus Graphics' (Feature Level 11_0)
+[2024.03.03-23.56.29:132][  0]LogD3D11RHI:       128/0/16177 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2024.03.03-23.56.29:135][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.03.03-23.56.29:135][  0]LogD3D11RHI:       0/0/16177 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.03.03-23.56.29:135][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2024.03.03-23.56.29:149][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.03.03-23.56.29:149][  0]LogD3D11RHI:     GPU DeviceId: 0x8a52 (for the marketing name, search the web for "GPU Device Id")
+[2024.03.03-23.56.29:149][  0]LogWindows: EnumDisplayDevices:
+[2024.03.03-23.56.29:149][  0]LogWindows:    0. 'Intel(R) Iris(R) Plus Graphics' (P:1 D:1)
+[2024.03.03-23.56.29:150][  0]LogWindows:    1. 'Intel(R) Iris(R) Plus Graphics' (P:0 D:0)
+[2024.03.03-23.56.29:150][  0]LogWindows:    2. 'Intel(R) Iris(R) Plus Graphics' (P:0 D:0)
+[2024.03.03-23.56.29:150][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2024.03.03-23.56.29:150][  0]LogD3D11RHI:     Adapter Name: Intel(R) Iris(R) Plus Graphics
+[2024.03.03-23.56.29:150][  0]LogD3D11RHI:   Driver Version: 30.0.101.3118 (internal:30.0.101.3118, unified:30.0.101.3118)
+[2024.03.03-23.56.29:150][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2024.03.03-23.56.29:150][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2024.03.03-23.56.29:541][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2024.03.03-23.56.29:583][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2024.03.03-23.56.29:583][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2024.03.03-23.56.29:583][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2024.03.03-23.56.29:583][  0]LogD3D11RHI: Async texture creation enabled
+[2024.03.03-23.56.29:583][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.03.03-23.56.29:595][  0]LogD3D11RHI: GPU Timing Frequency: 19.200000 (Debug: 2 0)
+[2024.03.03-23.56.30:282][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.03.03-23.56.30:327][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.03.03-23.56.30:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.03.03-23.56.30:379][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.03.03-23.56.30:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.03.03-23.56.30:439][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.03.03-23.56.30:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.03.03-23.56.30:476][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.03.03-23.56.30:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.03.03-23.56.30:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.03.03-23.56.30:521][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.03.03-23.56.30:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.03.03-23.56.30:574][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.03.03-23.56.30:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.03.03-23.56.30:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.03.03-23.56.30:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.03.03-23.56.30:649][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.03.03-23.56.30:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.03.03-23.56.30:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.03.03-23.56.30:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.03.03-23.56.30:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.03.03-23.56.30:717][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.03.03-23.56.30:734][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.03.03-23.56.30:734][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.03.03-23.56.30:750][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.03.03-23.56.30:876][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.03.03-23.56.30:876][  0]LogShaderCompilers: Guid format shader working directory is -46 characters bigger than the processId version (../../../../../../Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Intermediate/Shaders/WorkingDirectory/27540/).
+[2024.03.03-23.56.30:876][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/RazRa/AppData/Local/Temp/UnrealShaderWorkingDir/D93CE6D246B2AA080748C491BD886E4F/'.
+[2024.03.03-23.56.30:876][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.03.03-23.56.30:876][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.03.03-23.56.40:298][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.03.03-23.56.40:491][  0]LogDerivedDataCache: Loaded boot cache 0.19s 77MB C:/Users/RazRa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.03.03-23.56.40:491][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/RazRa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2024.03.03-23.56.40:491][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.03.03-23.56.40:492][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.03.03-23.56.40:492][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.03-23.56.40:492][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.03.03-23.56.40:559][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.03.03-23.56.40:559][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.03.03-23.56.40:559][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.03.03-23.56.40:694][  0]LogDerivedDataCache: Speed tests for C:/Users/RazRa/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.14 seconds
+[2024.03.03-23.56.40:695][  0]LogDerivedDataCache: Display: Performance to C:/Users/RazRa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.27ms. RandomReadSpeed=8.70MBs, RandomWriteSpeed=36.72MBs. Assigned SpeedClass 'Local'
+[2024.03.03-23.56.40:697][  0]LogDerivedDataCache: Using Local data cache path C:/Users/RazRa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.03.03-23.56.40:697][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.03.03-23.56.40:697][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.03.03-23.56.40:922][  0]LogSlate: Using FreeType 2.10.0
+[2024.03.03-23.56.40:953][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.03.03-23.56.41:030][  0]LogAssetRegistry: FAssetRegistry took 0.0086 seconds to start up
+[2024.03.03-23.56.42:057][  0]LogInit: Selected Device Profile: [Windows]
+[2024.03.03-23.56.42:058][  0]LogInit: Active device profile: [0000020F2BB2DD00][0000020F28E6BC80 49] Windows
+[2024.03.03-23.56.42:058][  0]LogInit: Profiles: [0000020F2BB2DD00][0000020F28E6BC80 49] Windows, [0000020F2BAE6E00][0000020F28E72140 49] WindowsNoEditor, [0000020F2BB2CD00][0000020F28E762C0 49] WindowsServer, [0000020F2BAE7A00][0000020F28E7A440 49] WindowsClient, [0000020F2BB2EA00][0000020F28E7E5C0 49] IOS, [0000020F2BAE6200][0000020F28E82740 49] iPadAir, [0000020F2BB2ED00][0000020F28E868C0 49] iPadAir2, [0000020F2BA9F000][0000020F28E8EB80 49] IPadPro, [0000020F2BA9F100][0000020F28E8ABC0 49] iPadAir3, [0000020F2BB2D500][0000020F28E92D40 49] iPadAir4, [0000020F2BA9E800][0000020F28E96EC0 49] iPadMini2, [0000020F2BB2F200][0000020F28E9B040 49] iPadMini3, [0000020F2BA9D600][0000020F28E9F1C0 49] iPadMini4, [0000020F2BB2D200][0000020F28EA3340 49] iPadMini5, [0000020F2BAAE900][0000020F28EAB600 49] iPhone6, [0000020F2BAAEA00][0000020F28EA7640 49] iPodTouch6, [0000020F2BA9F600][0000020F28EAF880 49] iPhone7, [0000020F2BA9F700][0000020F28E6F8C0 49] iPodTouch7, [0000020F2BAAE700][0000020F28EB3A00 49] iPhone5S, [0000020F2BA9C100][0000020F28EBBB80 49] iPhone6Plus, [0000020F2BAAD400][0000020F28EBFD00 49] iPhone6S, [0000020F2BA9C700][0000020F28EC21C0 49] iPhone6SPlus, [0000020F2BAAC200][0000020F28EC6340 49] iPhone7Plus, [0000020F2BA9E600][0000020F28ECA4C0 49] iPhoneSE, [0000020F2BAAF000][0000020F28ECE640 49] iPhone8, [0000020F2BA9FF00][0000020F28ED27C0 49] iPhone8Plus, [0000020F2BAADC00][0000020F28ED6940 49] iPhoneX, [0000020F2BA9E300][0000020F28EDAAC0 49] iPhoneXS, [0000020F2BAAC400][0000020F28EE2C40 49] iPhoneXSMax, [0000020F2BA9FC00][0000020F28EE6DC0 49] iPhoneXR, [0000020F2BAAFE00][0000020F28EEAF40 49] iPhone11, [0000020F2BA9E000][0000020F28EEF0C0 49] iPhone11Pro, [0000020F2BAAF500][0000020F28EF3240 49] iPhone11ProMax, [0000020F2BA9EC00][0000020F28EF73C0 49] iPhoneSE2, [0000020F2BAAF700][0000020F28EFB540 49] iPhone12Mini, [0000020F2BA9CB00][0000020F28EFF6C0 49] iPhone12, [0000020F2BAAE300][0000020F28EB7800 49] iPhone12Pro, [0000020F2BA9F400][0000020F28F03940 49] iPhone12ProMax, [0000020F2BA9E900][0000020F28F07A80 49] iPadPro105, [0000020F2BAE5B00][0000020F28F0FC00 49] iPadPro129, [0000020F2BA9CF00][0000020F28F120C0 49] iPadPro97, [0000020F2BAE6700][0000020F28F16240 49] iPadPro2_129, [0000020F2BA9F900][0000020F28F1A3C0 49] iPad5, [0000020F2BAE6400][0000020F28F3E540 49] iPad6, [0000020F2BA9ED00][0000020F28F426C0 49] iPad7, [0000020F2BAE6F00][0000020F28F46840 49] iPad8, [0000020F2BAE4C00][0000020F28F4A9C0 49] iPadPro11, [0000020F2BAAFD00][0000020F29882B40 49] iPadPro2_11, [0000020F2BAE5100][0000020F29886CC0 49] iPadPro3_129, [0000020F2BAACB00][0000020F2988AE40 49] iPadPro4_129, [0000020F2BAE6C00][0000020F2988EFC0 49] AppleTV, [0000020F2BAAD000][0000020F298BF140 49] AppleTV4K, [0000020F2BAE4600][0000020F298C32C0 49] TVOS, [0000020F2BAAFF00][0000020F298C7440 49] Mac, [0000020F2BAE4200][0000020F298CB5C0 49] MacClient, [0000020F2BA9C800][0000020F298CF740 49] MacNoEditor, [0000020F2BAE7300][0000020F28F0B880 49] MacServer, [0000020F2BA9C200][0000020F298D39C0 49] Linux, [0000020F2BAE5600][0000020F298D7B00 49] LinuxAArch64, [0000020F2BA9EA00][0000020F298DBC40 49] LinuxNoEditor, [0000020F2BAE5C00][0000020F298E2100 49] LinuxAArch64NoEditor, [0000020F2BA9FE00][0000020F298E6280 49] LinuxClient, [0000020F2BAE4B00][0000020F298EA400 49] LinuxAArch64Client, [0000020F2BA9FB00][0000020F298EE580 49] LinuxServer, [0000020F2BAE4800][0000020F298F2700 49] LinuxAArch64Server, [0000020F2BA9F500][0000020F298F6880 49] Android, [0000020F2BAE7200][0000020F298FAA00 49] Android_Low, [0000020F2BA9E700][0000020F298FEB80 49] Android_Mid, [0000020F2BAE7900][0000020F29902D00 49] Android_High, [0000020F2BA9EF00][0000020F29906E80 49] Android_Default, [0000020F2BAE5A00][0000020F2990B000 49] Android_Adreno4xx, [0000020F2BA9D200][0000020F2990F180 49] Android_Adreno5xx_Low, [0000020F2BAE4D00][0000020F29913300 49] Android_Adreno5xx, [0000020F2BA9CD00][0000020F29917480 49] Android_Adreno6xx, [0000020F2BAE4700][0000020F2991B600 49] Android_Adreno6xx_Vulkan, [0000020F2BA9C300][0000020F2991F780 49] Android_Mali_T6xx, [0000020F2BAE4500][0000020F298DF8C0 49] Android_Mali_T7xx, [0000020F2BA9D400][0000020F29923A00 49] Android_Mali_T8xx, [0000020F2BAE5F00][0000020F29927B40 49] Android_Mali_G71, [0000020F2BA9D900][0000020F2992BC80 49] Android_Mali_G72, [0000020F2BAE4100][0000020F29932140 49] Android_Mali_G72_Vulkan, [0000020F2BA9E400][0000020F299362C0 49] Android_Mali_G76, [0000020F2BAE5D00][0000020F2993A440 49] Android_Mali_G76_Vulkan, [0000020F2BA9CA00][0000020F2993E5C0 49] Android_Mali_G77, [0000020F2BAE6300][0000020F29942740 49] Android_Mali_G77_Vulkan, [0000020F2BA9EB00][0000020F299468C0 49] Android_Vulkan_SM5, [0000020F2BAE4F00][0000020F2994AA40 49] Android_PowerVR_G6xxx, [0000020F2BA9D800][0000020F2994EBC0 49] Android_PowerVR_GT7xxx, [0000020F2BAE5300][0000020F29952D40 49] Android_PowerVR_GE8xxx, [0000020F2BA9DE00][0000020F29956EC0 49] Android_PowerVR_GM9xxx, [0000020F2BAE6A00][0000020F2995B040 49] Android_PowerVR_GM9xxx_Vulkan, [0000020F2BA9D000][0000020F2995F1C0 49] Android_TegraK1, [0000020F2BAE7100][0000020F29963340 49] Android_Unknown_Vulkan, [0000020F2BAAE200][0000020F299674C0 49] Lumin, [0000020F2BB2C200][0000020F2996B640 49] Lumin_Desktop, [0000020F2BAAF300][0000020F2996F7C0 49] HoloLens, 
+[2024.03.03-23.56.42:748][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.03.03-23.56.42:748][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.03.03-23.56.42:748][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.03.03-23.56.42:748][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.03.03-23.56.42:748][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.03.03-23.56.42:880][  0]LogNetVersion: RazWillrichCapstone 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 718203027)
+[2024.03.03-23.56.46:246][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.03.03-23.56.46:492][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.244222 seconds
+[2024.03.03-23.56.46:508][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2024.03.03-23.56.46:508][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2024.03.03-23.56.46:508][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.03.03-23.56.48:640][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.03.03-23.56.48:661][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.03.03-23.56.48:836][  0]SourceControl: Source control is disabled
+[2024.03.03-23.56.48:836][  0]SourceControl: Source control is disabled
+[2024.03.03-23.56.48:846][  0]SourceControl: Source control is disabled
+[2024.03.03-23.56.48:855][  0]SourceControl: Source control is disabled
+[2024.03.03-23.56.48:881][  0]SourceControl: Source control is disabled
+[2024.03.03-23.56.48:910][  0]LogUProjectInfo: Found projects:
+[2024.03.03-23.56.49:895][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.03.03-23.56.49:952][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.03-23.56.49:952][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.03.03-23.56.50:151][  0]LogCollectionManager: Loaded 0 collections in 0.005730 seconds
+[2024.03.03-23.56.50:256][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Saved/Collections/' took 0.00s
+[2024.03.03-23.56.50:256][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Content/Developers/RazRa/Collections/' took 0.00s
+[2024.03.03-23.56.50:256][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Content/Collections/' took 0.00s
+[2024.03.03-23.56.50:256][  0]LogOcInput: OculusInput pre-init called
+[2024.03.03-23.56.50:299][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2024.03.03-23.56.50:299][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2024.03.03-23.56.50:489][  0]LogEngine: Initializing Engine...
+[2024.03.03-23.56.50:492][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.03.03-23.56.50:492][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.03.03-23.56.50:494][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.03.03-23.56.51:345][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.03.03-23.56.51:381][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.03.03-23.56.51:494][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.03.03-23.56.51:507][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.03.03-23.56.51:508][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.03.03-23.56.51:508][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.03-23.56.51:508][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.03-23.56.51:508][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.03-23.56.51:508][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.03-23.56.51:508][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.03-23.56.51:508][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.03-23.56.51:508][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.03-23.56.51:508][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.03-23.56.51:510][  0]LogAudio: Display: Using built-in audio occlusion.
+[2024.03.03-23.56.51:510][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.03-23.56.51:559][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.03-23.56.51:559][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.03.03-23.56.52:017][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio(SST))
+[2024.03.03-23.56.52:022][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.03-23.56.52:094][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.03-23.56.52:094][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.03-23.56.52:096][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.03-23.56.52:096][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.03-23.56.52:096][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.03-23.56.52:098][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.03-23.56.52:098][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.03-23.56.52:098][  0]LogInit: FAudioDevice initialized.
+[2024.03.03-23.56.52:098][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.03.03-23.56.52:099][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.03.03-23.56.52:226][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/RazRa/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2024.03.03-23.56.52:226][  0]LogInit: Texture streaming: Enabled
+[2024.03.03-23.56.52:260][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2024.03.03-23.56.52:271][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.03.03-23.56.52:271][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.03.03-23.56.52:276][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.03.03-23.56.52:340][  0]LogInit: Transaction tracking system initialized
+[2024.03.03-23.56.52:388][  0]BlueprintLog: New page: Editor Load
+[2024.03.03-23.56.52:571][  0]LocalizationService: Localization service is disabled
+[2024.03.03-23.56.52:631][  0]TimingProfiler: Initialize
+[2024.03.03-23.56.52:631][  0]TimingProfiler: OnSessionChanged
+[2024.03.03-23.56.52:631][  0]LoadingProfiler: Initialize
+[2024.03.03-23.56.52:632][  0]LoadingProfiler: OnSessionChanged
+[2024.03.03-23.56.52:632][  0]NetworkingProfiler: Initialize
+[2024.03.03-23.56.52:632][  0]NetworkingProfiler: OnSessionChanged
+[2024.03.03-23.56.52:632][  0]MemoryProfiler: Initialize
+[2024.03.03-23.56.52:632][  0]MemoryProfiler: OnSessionChanged
+[2024.03.03-23.56.53:342][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.03.03-23.56.53:342][  0]LogCook: Display: Mobile HDR setting 1
+[2024.03.03-23.56.53:759][  0]LogFileCache: Scanning file cache for directory 'C:/Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Content/' took 0.03s
+[2024.03.03-23.56.54:078][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.03.03-23.56.54:085][  0]SourceControl: Source control is disabled
+[2024.03.03-23.56.54:085][  0]LogUnrealEdMisc: Loading editor; pre map load, took 39.024
+[2024.03.03-23.56.54:086][  0]LightingResults: New page: Lighting Build
+[2024.03.03-23.56.54:087][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.03.03-23.56.54:087][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.03-23.56.54:087][  0]MapCheck: New page: Map Check
+[2024.03.03-23.56.54:087][  0]LightingResults: New page: Lighting Build
+[2024.03.03-23.56.54:099][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.03-23.56.55:929][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2024.03.03-23.56.56:460][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2024.03.03-23.56.56:462][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2024.03.03-23.56.56:485][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.03-23.56.56:520][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.03.03-23.56.56:520][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.03-23.56.56:521][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2024.03.03-23.56.56:521][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 2.436
+[2024.03.03-23.56.56:524][  0]LogUnrealEdMisc: Total Editor Startup Time, took 41.463
+[2024.03.03-23.56.56:765][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-23.56.56:782][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-23.56.56:795][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-23.56.56:808][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.03-23.56.56:844][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0155 seconds. Added 3610 classes and 864 folders.
+[2024.03.03-23.56.56:853][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.03.03-23.56.56:870][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.03.03-23.56.56:870][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:870][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.03.03-23.56.56:870][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2024.03.03-23.56.56:890][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.03.03-23.56.56:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.03.03-23.56.56:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.03.03-23.56.56:906][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.03.03-23.56.56:906][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:906][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.03.03-23.56.56:906][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2024.03.03-23.56.56:918][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.03-23.56.56:918][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:918][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.03.03-23.56.56:918][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2024.03.03-23.56.56:928][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.03.03-23.56.56:929][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:929][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.03.03-23.56.56:929][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2024.03.03-23.56.56:938][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.03.03-23.56.56:938][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:938][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.03.03-23.56.56:938][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2024.03.03-23.56.56:948][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.03.03-23.56.56:948][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:948][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.03.03-23.56.56:948][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2024.03.03-23.56.56:960][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.03.03-23.56.56:960][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:960][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.03.03-23.56.56:960][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2024.03.03-23.56.56:972][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.03.03-23.56.56:972][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:972][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.03.03-23.56.56:972][  0]LogPakFile: OnPakFileMounted2Time == 0.000067
+[2024.03.03-23.56.56:982][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.03.03-23.56.56:982][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:982][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.03.03-23.56.56:982][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2024.03.03-23.56.56:992][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.03.03-23.56.56:992][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.56:992][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.03.03-23.56.56:992][  0]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2024.03.03-23.56.57:004][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.03.03-23.56.57:004][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:004][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.03.03-23.56.57:004][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2024.03.03-23.56.57:018][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.03-23.56.57:018][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:018][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.03.03-23.56.57:018][  0]LogPakFile: OnPakFileMounted2Time == 0.000092
+[2024.03.03-23.56.57:030][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.03.03-23.56.57:030][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:030][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.03.03-23.56.57:030][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2024.03.03-23.56.57:040][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.03.03-23.56.57:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.03.03-23.56.57:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2024.03.03-23.56.57:053][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.03.03-23.56.57:053][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:053][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.03.03-23.56.57:053][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2024.03.03-23.56.57:070][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.03.03-23.56.57:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.03.03-23.56.57:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000123
+[2024.03.03-23.56.57:087][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.03.03-23.56.57:087][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:087][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.03.03-23.56.57:087][  0]LogPakFile: OnPakFileMounted2Time == 0.000130
+[2024.03.03-23.56.57:107][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.03-23.56.57:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.03.03-23.56.57:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2024.03.03-23.56.57:138][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.03-23.56.57:138][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:138][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.03.03-23.56.57:138][  0]LogPakFile: OnPakFileMounted2Time == 0.000145
+[2024.03.03-23.56.57:160][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.03.03-23.56.57:161][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:161][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.03.03-23.56.57:161][  0]LogPakFile: OnPakFileMounted2Time == 0.000154
+[2024.03.03-23.56.57:184][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.03.03-23.56.57:184][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:184][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.03.03-23.56.57:184][  0]LogPakFile: OnPakFileMounted2Time == 0.000163
+[2024.03.03-23.56.57:201][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.03.03-23.56.57:201][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:201][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.03.03-23.56.57:201][  0]LogPakFile: OnPakFileMounted2Time == 0.000171
+[2024.03.03-23.56.57:222][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.03.03-23.56.57:222][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:222][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.03.03-23.56.57:222][  0]LogPakFile: OnPakFileMounted2Time == 0.000179
+[2024.03.03-23.56.57:238][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.03.03-23.56.57:238][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:238][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.03.03-23.56.57:238][  0]LogPakFile: OnPakFileMounted2Time == 0.000188
+[2024.03.03-23.56.57:257][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.03.03-23.56.57:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.03.03-23.56.57:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.03.03-23.56.57:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000197
+[2024.03.03-23.56.57:590][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2024.03.03-23.56.57:592][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2024.03.03-23.56.58:446][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.03.03-23.56.58:580][  0]LogSlate: Took 0.019656 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.03.03-23.56.58:607][  0]LogSlate: Took 0.014280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.03.03-23.56.58:629][  0]LogSlate: Took 0.018061 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.03.03-23.56.58:875][  0]LogRenderer: Reallocating scene render targets to support 1288x576 Format 10 NumSamples 1 (Frame:1).
+[2024.03.03-23.57.00:473][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2024.03.03-23.57.00:473][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2024.03.03-23.57.00:473][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2024.03.03-23.57.00:473][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2024.03.03-23.57.00:473][  0]LogLoad: (Engine Initialization) Total time: 45.41 seconds
+[2024.03.03-23.57.00:473][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.03.03-23.57.00:473][  0]LogInit: First time updating LLM stats...
+[2024.03.03-23.57.00:786][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.03.03-23.57.00:887][  1]LogAssetRegistry: Asset discovery search completed in 19.8599 seconds
+[2024.03.03-23.57.00:889][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2024.03.03-23.57.01:896][  4]LogSlate: Took 0.009050 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.03-23.59.50:038][794]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2024.03.03-23.59.50:496][794]LogBlueprintEditor: Perf: 0.4 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2024.03.03-23.59.50:496][794]LogBlueprintEditor: Perf: 0.2 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2024.03.03-23.59.51:803][794]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 126 classes and 0 folders.
+[2024.03.03-23.59.54:253][794]LogSlate: Took 0.014771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.03.03-23.59.54:893][795]LogSlate: Took 0.010231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.03.04-00.00.17:180][281]LogUObjectHash: Compacting FUObjectHashTables data took   7.03ms
+[2024.03.04-00.00.18:465][281]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Stages/Stage1.Stage1
+[2024.03.04-00.00.18:466][281]Cmd: MAP LOAD FILE="../../../../../../Users/RazRa/OneDrive - SNHU/Documents/Unreal Projects/RazWillrichCapstone/Content/Stages/Stage1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.03.04-00.00.18:466][281]LightingResults: New page: Lighting Build
+[2024.03.04-00.00.18:466][281]LoadErrors: New page: Loading map: Stage1.umap
+[2024.03.04-00.00.18:473][281]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.00.18:474][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-00.00.18:474][281]MapCheck: New page: Map Check
+[2024.03.04-00.00.18:474][281]LightingResults: New page: Lighting Build
+[2024.03.04-00.00.18:513][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.04-00.00.18:526][281]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2024.03.04-00.00.18:528][281]LogAudio: Display: Audio Device (ID: 1) registered with world 'Stage1'.
+[2024.03.04-00.00.19:355][281]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.03.04-00.00.19:355][281]LogAIModule: Creating AISystem for world Stage1
+[2024.03.04-00.00.19:446][281]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2024.03.04-00.00.19:464][281]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.03.04-00.00.19:465][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.328ms to complete.
+[2024.03.04-00.00.19:465][281]LogFileHelpers: Loading map 'Stage1' took 0.998
+[2024.03.04-00.00.22:372][314]LogTemp: Repeating last play command: Selected Viewport
+[2024.03.04-00.00.22:416][314]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.04-00.00.22:418][314]PIE: New page: PIE session: Stage1 (Mar 3, 2024, 8:00:22 AM)
+[2024.03.04-00.00.22:422][314]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.03.04-00.00.22:428][314]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.03.04-00.00.22:429][314]LogPlayLevel: Creating play world package: /Game/Stages/UEDPIE_0_Stage1
+[2024.03.04-00.00.22:524][314]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094707s)
+[2024.03.04-00.00.22:528][314]LogAIModule: Creating AISystem for world Stage1
+[2024.03.04-00.00.22:529][314]LogPlayLevel: PIE: World Init took: (0.004804s)
+[2024.03.04-00.00.22:529][314]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Stages/Stage1.Stage1 to /Game/Stages/UEDPIE_0_Stage1.Stage1 (0.100139s)
+[2024.03.04-00.00.22:595][314]LogUObjectHash: Compacting FUObjectHashTables data took   8.27ms
+[2024.03.04-00.00.22:599][314]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.03.04-00.00.22:600][314]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.04-00.00.22:600][314]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.04-00.00.22:600][314]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.04-00.00.22:600][314]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.04-00.00.22:600][314]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.03.04-00.00.22:600][314]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.04-00.00.22:600][314]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.03.04-00.00.22:600][314]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.04-00.00.22:602][314]LogAudio: Display: Using built-in audio occlusion.
+[2024.03.04-00.00.22:602][314]LogAudioMixer: Display: Initializing audio mixer.
+[2024.03.04-00.00.22:615][314]LogAudioMixer: Display: 0: FrontLeft
+[2024.03.04-00.00.22:615][314]LogAudioMixer: Display: 1: FrontRight
+[2024.03.04-00.00.22:705][314]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek High Definition Audio(SST))
+[2024.03.04-00.00.22:706][314]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.04-00.00.22:706][314]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.04-00.00.22:706][314]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.04-00.00.22:708][314]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.03.04-00.00.22:708][314]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.03.04-00.00.22:708][314]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.03.04-00.00.22:780][314]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.03.04-00.00.22:780][314]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.03.04-00.00.22:780][314]LogInit: FAudioDevice initialized.
+[2024.03.04-00.00.22:780][314]LogAudio: Display: Audio Device (ID: 2) registered with world 'Stage1'.
+[2024.03.04-00.00.22:818][314]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.03.04-00.00.22:850][314]LogWorld: Bringing World /Game/Stages/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.03.03-16.00.22
+[2024.03.04-00.00.22:851][314]LogWorld: Bringing up level for play took: 0.027999
+[2024.03.04-00.00.22:852][314]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2024.03.04-00.00.22:868][314]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 20 classes and 0 folders.
+[2024.03.04-00.00.22:892][314]PIE: Server logged in
+[2024.03.04-00.00.22:897][314]PIE: Play in editor total start time 0.488 seconds.
+[2024.03.04-00.00.24:251][315]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.095578 > MaxSimulationTimeStep (0.050) for 'BP_EnemyAI_C_1', movement 'Walking'
+[2024.03.04-00.00.29:563][407]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1266.583 Y=6445.381 Z=237.555] for [Coin_BP_C]
+[2024.03.04-00.00.32:552][461]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2695.925 Y=-8332.256 Z=215.213] for [Coin_BP_C]
+[2024.03.04-00.00.35:579][516]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8118.695 Y=-10605.573 Z=230.122] for [Coin_BP_C]
+[2024.03.04-00.00.38:537][573]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5476.760 Y=9142.797 Z=219.639] for [Coin_BP_C]
+[2024.03.04-00.00.38:540][573]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-5749.202 Y=-12260.690 Z=220.524] for [Coin_BP_C]
+[2024.03.04-00.00.44:534][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11501.544 Y=12153.948 Z=243.355] for [Coin_BP_C]
+[2024.03.04-00.00.44:538][686]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1582.587 Y=10851.748 Z=216.122] for [Coin_BP_C]
+[2024.03.04-00.00.50:564][787]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8270.618 Y=2218.672 Z=217.607] for [Coin_BP_C]
+[2024.03.04-00.00.53:593][841]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7830.462 Y=1258.584 Z=220.839] for [Coin_BP_C]
+[2024.03.04-00.00.56:606][891]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-12001.794 Y=11907.505 Z=215.543] for [Coin_BP_C]
+[2024.03.04-00.00.56:612][891]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11539.745 Y=-12175.452 Z=220.944] for [Coin_BP_C]
+[2024.03.04-00.00.59:618][930]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=890.949 Y=-6473.465 Z=240.349] for [Coin_BP_C]
+[2024.03.04-00.01.05:579][ 10]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9216.649 Y=-61.134 Z=236.273] for [Coin_BP_C]
+[2024.03.04-00.01.08:610][ 52]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1118.048 Y=8140.874 Z=232.124] for [Coin_BP_C]
+[2024.03.04-00.01.17:544][196]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9451.268 Y=3582.275 Z=226.736] for [Coin_BP_C]
+[2024.03.04-00.01.23:758][274]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11657.018 Y=-2086.049 Z=220.510] for [Coin_BP_C]
+[2024.03.04-00.01.26:590][307]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-7187.108 Y=-11801.899 Z=222.492] for [Coin_BP_C]
+[2024.03.04-00.01.29:566][339]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=3058.700 Y=8925.664 Z=226.065] for [Coin_BP_C]
+[2024.03.04-00.01.37:718][435]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.37:719][435]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.37:758][436]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.37:758][436]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.37:779][437]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.37:779][437]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.37:833][438]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.37:834][438]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.37:898][439]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.37:898][439]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.37:952][440]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.37:952][440]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:013][441]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:014][441]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:071][442]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:071][442]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:137][443]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:137][443]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:196][444]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:196][444]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:254][445]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:255][445]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:316][446]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:316][446]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:372][447]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:373][447]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:431][448]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:433][448]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:488][449]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:489][449]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:549][450]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_0
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.01.38:549][450]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:612][451]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:684][452]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:748][453]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:809][454]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:869][455]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:947][456]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.38:991][457]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:052][458]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:122][459]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:185][460]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:244][461]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:304][462]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:368][463]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:437][464]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:495][465]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:559][466]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:625][467]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:688][468]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:752][469]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:820][470]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:891][471]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.39:961][472]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:022][473]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:091][474]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:157][475]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:217][476]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:290][477]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:351][478]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:419][479]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:481][480]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:557][481]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:609][482]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:673][483]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:737][484]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:801][485]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:868][486]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:934][487]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.01.40:996][488]LogNet: Browse: /Game/Stages/Stage1
+[2024.03.04-00.01.40:998][488]LogLoad: LoadMap: /Game/Stages/Stage1
+[2024.03.04-00.01.40:998][488]LogWorld: BeginTearingDown for /Game/Stages/UEDPIE_0_Stage1
+[2024.03.04-00.01.41:004][488]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.01.41:022][488]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-00.01.41:159][488]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.04-00.01.41:226][488]LogUObjectHash: Compacting FUObjectHashTables data took  20.58ms
+[2024.03.04-00.01.41:232][488]LogPlayLevel: Creating play world package: /Game/Stages/UEDPIE_0_Stage1
+[2024.03.04-00.01.41:312][488]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076160s)
+[2024.03.04-00.01.41:315][488]LogAIModule: Creating AISystem for world Stage1
+[2024.03.04-00.01.41:317][488]LogPlayLevel: PIE: World Init took: (0.003932s)
+[2024.03.04-00.01.41:317][488]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Stages/Stage1.Stage1 to /Game/Stages/UEDPIE_0_Stage1.Stage1 (0.085436s)
+[2024.03.04-00.01.41:317][488]LogAudio: Display: Audio Device (ID: 2) registered with world 'Stage1'.
+[2024.03.04-00.01.41:317][488]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.03.04-00.01.41:345][488]LogWorld: Bringing World /Game/Stages/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.03.03-16.01.41
+[2024.03.04-00.01.41:346][488]LogWorld: Bringing up level for play took: 0.025543
+[2024.03.04-00.01.41:367][488]LogLoad: Took 0.369792 seconds to LoadMap(/Game/Stages/UEDPIE_0_Stage1)
+[2024.03.04-00.01.41:421][489]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.066779 > MaxSimulationTimeStep (0.050) for 'BP_EnemyAI_C_1', movement 'Walking'
+[2024.03.04-00.01.53:064][687]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11700.426 Y=11182.232 Z=217.034] for [Coin_BP_C]
+[2024.03.04-00.01.53:069][687]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=7164.609 Y=-11672.995 Z=231.089] for [Coin_BP_C]
+[2024.03.04-00.02.05:060][879]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8069.397 Y=2316.966 Z=224.549] for [Coin_BP_C]
+[2024.03.04-00.02.14:099][ 20]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-4612.659 Y=7448.500 Z=232.872] for [Coin_BP_C]
+[2024.03.04-00.02.17:059][ 60]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1053.415 Y=8037.391 Z=243.750] for [Coin_BP_C]
+[2024.03.04-00.02.17:064][ 60]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-9828.687 Y=-10310.081 Z=222.780] for [Coin_BP_C]
+[2024.03.04-00.02.23:072][141]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-11463.338 Y=11533.354 Z=232.859] for [Coin_BP_C]
+[2024.03.04-00.02.32:087][252]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-8202.605 Y=-11274.619 Z=235.317] for [Coin_BP_C]
+[2024.03.04-00.02.35:757][296]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.35:757][296]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.35:782][297]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.35:783][297]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.35:865][298]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.35:865][298]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.35:949][299]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.35:949][299]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:029][300]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:029][300]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:105][301]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:106][301]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:187][302]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:187][302]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:262][303]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:262][303]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:342][304]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:343][304]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:423][305]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:423][305]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:493][306]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:494][306]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:565][307]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:565][307]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:638][308]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:639][308]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:715][309]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:716][309]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:797][310]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:797][310]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:875][311]LogScript: Warning: Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill
+	HealthWidget_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.HealthWidget_C_1
+	Function /Game/PlayerHealth/HealthWidget.HealthWidget_C:GetPercent_0:0027
+[2024.03.04-00.02.36:875][311]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.36:965][312]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:037][313]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:117][314]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:194][315]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:282][316]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:368][317]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:447][318]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:529][319]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:619][320]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:703][321]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:784][322]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:865][323]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.37:948][324]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.38:028][325]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.38:113][326]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.38:193][327]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.38:270][328]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.38:347][329]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.38:431][330]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.38:519][331]PIE: Error: Blueprint Runtime Error: "Attempted to access ThirdPersonCharacter_C_0 via property Char REF, but ThirdPersonCharacter_C_0 is pending kill". Blueprint:  HealthWidget Function:  Get Percent 0 Graph:  GetPercent_0 Node:  Return Node
+[2024.03.04-00.02.38:589][332]LogNet: Browse: /Game/Stages/Stage1
+[2024.03.04-00.02.38:589][332]LogLoad: LoadMap: /Game/Stages/Stage1
+[2024.03.04-00.02.38:589][332]LogWorld: BeginTearingDown for /Game/Stages/UEDPIE_0_Stage1
+[2024.03.04-00.02.38:593][332]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.02.38:610][332]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-00.02.38:761][332]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.04-00.02.38:794][332]LogUObjectHash: Compacting FUObjectHashTables data took  13.15ms
+[2024.03.04-00.02.38:799][332]LogPlayLevel: Creating play world package: /Game/Stages/UEDPIE_0_Stage1
+[2024.03.04-00.02.38:884][332]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081151s)
+[2024.03.04-00.02.38:888][332]LogAIModule: Creating AISystem for world Stage1
+[2024.03.04-00.02.38:888][332]LogPlayLevel: PIE: World Init took: (0.004205s)
+[2024.03.04-00.02.38:889][332]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Stages/Stage1.Stage1 to /Game/Stages/UEDPIE_0_Stage1.Stage1 (0.089170s)
+[2024.03.04-00.02.38:889][332]LogAudio: Display: Audio Device (ID: 2) registered with world 'Stage1'.
+[2024.03.04-00.02.38:889][332]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2024.03.04-00.02.38:916][332]LogWorld: Bringing World /Game/Stages/UEDPIE_0_Stage1.Stage1 up for play (max tick rate 60) at 2024.03.03-16.02.38
+[2024.03.04-00.02.38:918][332]LogWorld: Bringing up level for play took: 0.026026
+[2024.03.04-00.02.38:938][332]LogLoad: Took 0.348948 seconds to LoadMap(/Game/Stages/UEDPIE_0_Stage1)
+[2024.03.04-00.02.38:987][333]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.074691 > MaxSimulationTimeStep (0.050) for 'BP_EnemyAI_C_1', movement 'Walking'
+[2024.03.04-00.02.41:662][375]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=11811.830 Y=10963.305 Z=240.367] for [Coin_BP_C]
+[2024.03.04-00.02.43:634][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-00.02.43:634][406]LogWorld: BeginTearingDown for /Game/Stages/UEDPIE_0_Stage1
+[2024.03.04-00.02.43:635][406]LogWorld: UWorld::CleanupWorld for Stage1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.02.43:638][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-00.02.43:730][406]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.04-00.02.43:746][406]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-00.02.43:829][406]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.04-00.02.43:835][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.04-00.02.43:839][406]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.04-00.02.43:968][406]LogUObjectHash: Compacting FUObjectHashTables data took  11.44ms
+[2024.03.04-00.02.44:300][406]LogSlate: Took 0.037485 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2024.03.04-00.02.44:491][407]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2024.03.04-00.02.54:493][462]LogSlate: Window 'Message Log' being destroyed
+[2024.03.04-00.02.54:566][462]LogSlate: Window 'Message Log' being destroyed
+[2024.03.04-00.02.56:979][515]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2024.03.04-00.02.57:052][515]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.02.57:052][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.04-00.02.57:234][515]LogSlate: Window 'RazWillrichCapstone - Unreal Editor' being destroyed
+[2024.03.04-00.02.57:572][516]Cmd: QUIT_EDITOR
+[2024.03.04-00.02.57:572][516]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.03.04-00.02.57:587][516]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.03.04-00.02.57:954][516]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.04-00.02.57:954][516]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.04-00.02.57:954][516]LogAudio: Display: Audio Device unregistered from world 'Stage1'.
+[2024.03.04-00.02.57:954][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.04-00.02.57:957][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.03.04-00.02.57:993][516]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.04-00.02.57:994][516]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.03.04-00.02.58:004][516]LogExit: Preparing to exit.
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2DD00] Windows
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2DB00] Default__DeviceProfile
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE6E00] WindowsNoEditor
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2CD00] WindowsServer
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE7A00] WindowsClient
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2EA00] IOS
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE6200] iPadAir
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2ED00] iPadAir2
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9F000] IPadPro
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9F100] iPadAir3
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2D500] iPadAir4
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9E800] iPadMini2
+[2024.03.04-00.02.59:104][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2F200] iPadMini3
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9D600] iPadMini4
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2D200] iPadMini5
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAE900] iPhone6
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAEA00] iPodTouch6
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9F600] iPhone7
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9F700] iPodTouch7
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAE700] iPhone5S
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9C100] iPhone6Plus
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAD400] iPhone6S
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9C700] iPhone6SPlus
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAC200] iPhone7Plus
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9E600] iPhoneSE
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAF000] iPhone8
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9FF00] iPhone8Plus
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAADC00] iPhoneX
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9E300] iPhoneXS
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAC400] iPhoneXSMax
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9FC00] iPhoneXR
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAFE00] iPhone11
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9E000] iPhone11Pro
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAF500] iPhone11ProMax
+[2024.03.04-00.02.59:105][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9EC00] iPhoneSE2
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAF700] iPhone12Mini
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9CB00] iPhone12
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAE300] iPhone12Pro
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9F400] iPhone12ProMax
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9E900] iPadPro105
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE5B00] iPadPro129
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9CF00] iPadPro97
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE6700] iPadPro2_129
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9F900] iPad5
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE6400] iPad6
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9ED00] iPad7
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE6F00] iPad8
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4C00] iPadPro11
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAFD00] iPadPro2_11
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE5100] iPadPro3_129
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAACB00] iPadPro4_129
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE6C00] AppleTV
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAD000] AppleTV4K
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4600] TVOS
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAFF00] Mac
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4200] MacClient
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9C800] MacNoEditor
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE7300] MacServer
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9C200] Linux
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE5600] LinuxAArch64
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9EA00] LinuxNoEditor
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE5C00] LinuxAArch64NoEditor
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9FE00] LinuxClient
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4B00] LinuxAArch64Client
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9FB00] LinuxServer
+[2024.03.04-00.02.59:106][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4800] LinuxAArch64Server
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9F500] Android
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE7200] Android_Low
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9E700] Android_Mid
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE7900] Android_High
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9EF00] Android_Default
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE5A00] Android_Adreno4xx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9D200] Android_Adreno5xx_Low
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4D00] Android_Adreno5xx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9CD00] Android_Adreno6xx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4700] Android_Adreno6xx_Vulkan
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9C300] Android_Mali_T6xx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4500] Android_Mali_T7xx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9D400] Android_Mali_T8xx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE5F00] Android_Mali_G71
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9D900] Android_Mali_G72
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4100] Android_Mali_G72_Vulkan
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9E400] Android_Mali_G76
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE5D00] Android_Mali_G76_Vulkan
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9CA00] Android_Mali_G77
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE6300] Android_Mali_G77_Vulkan
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9EB00] Android_Vulkan_SM5
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE4F00] Android_PowerVR_G6xxx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9D800] Android_PowerVR_GT7xxx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE5300] Android_PowerVR_GE8xxx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9DE00] Android_PowerVR_GM9xxx
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE6A00] Android_PowerVR_GM9xxx_Vulkan
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BA9D000] Android_TegraK1
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAE7100] Android_Unknown_Vulkan
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAE200] Lumin
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BB2C200] Lumin_Desktop
+[2024.03.04-00.02.59:107][516]LogDeviceProfile: Device profile begin destroy: [0000020F2BAAF300] HoloLens
+[2024.03.04-00.02.59:153][516]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.02.59:157][516]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.02.59:164][516]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.02.59:266][516]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2024.03.04-00.02.59:282][516]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2024.03.04-00.02.59:283][516]LogExit: Editor shut down
+[2024.03.04-00.02.59:284][516]LogExit: Transaction tracking system shut down
+[2024.03.04-00.02.59:700][516]LogExit: Object subsystem successfully closed.
+[2024.03.04-00.02.59:727][516]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.03.04-00.02.59:791][516]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (828)
+[2024.03.04-00.02.59:792][516]LogModuleManager: Shutting down and abandoning module Voice (826)
+[2024.03.04-00.02.59:792][516]LogModuleManager: Shutting down and abandoning module BlueprintGraph (824)
+[2024.03.04-00.02.59:792][516]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (822)
+[2024.03.04-00.02.59:792][516]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (820)
+[2024.03.04-00.02.59:792][516]LogModuleManager: Shutting down and abandoning module SceneOutliner (818)
+[2024.03.04-00.02.59:792][516]LogModuleManager: Shutting down and abandoning module AddContentDialog (816)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module WidgetCarousel (815)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module EditorWidgets (812)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module StatsViewer (810)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (808)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (806)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module AutomationWorker (804)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module SteamVREditor (802)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module OculusMR (800)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module GooglePADEditor (798)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (796)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (794)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (792)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (790)
+[2024.03.04-00.02.59:793][516]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (788)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (786)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (784)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (782)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (780)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module WebMMedia (778)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (776)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (774)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module SequenceRecorder (773)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (770)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (768)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (766)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (764)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (762)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (760)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (758)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (756)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (754)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (752)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module PlanarCut (750)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module CharacterAI (748)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module TextureAlignMode (746)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module BspMode (744)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module GeometryMode (742)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (740)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module SmartSnapping (738)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module SessionServices (736)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module MeshPaint (734)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (732)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module FoliageEdit (730)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module LandscapeEditor (728)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module MeshPaintMode (726)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (724)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module ActorPickerMode (722)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module PlacementMode (720)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module ViewportSnapping (718)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module ViewportInteraction (716)
+[2024.03.04-00.02.59:794][516]LogModuleManager: Shutting down and abandoning module ClothPainter (714)
+[2024.03.04-00.02.59:795][516]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (713)
+[2024.03.04-00.02.59:795][516]LogModuleManager: Shutting down and abandoning module LogVisualizer (710)
+[2024.03.04-00.02.59:795][516]LogModuleManager: Shutting down and abandoning module IntroTutorials (708)
+[2024.03.04-00.02.59:795][516]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (707)
+[2024.03.04-00.02.59:795][516]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (704)
+[2024.03.04-00.02.59:795][516]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (702)
+[2024.03.04-00.02.59:795][516]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (700)
+[2024.03.04-00.02.59:795][516]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (699)
+[2024.03.04-00.02.59:974][516]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (696)
+[2024.03.04-00.02.59:974][516]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (694)
+[2024.03.04-00.02.59:974][516]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (692)
+[2024.03.04-00.02.59:974][516]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (690)
+[2024.03.04-00.02.59:974][516]LogModuleManager: Shutting down and abandoning module TraceInsights (688)
+[2024.03.04-00.02.59:975][516]MemoryProfiler: Shutdown
+[2024.03.04-00.02.59:975][516]NetworkingProfiler: Shutdown
+[2024.03.04-00.02.59:975][516]LoadingProfiler: Shutdown
+[2024.03.04-00.02.59:975][516]TimingProfiler: Shutdown
+[2024.03.04-00.02.59:975][516]LogModuleManager: Shutting down and abandoning module TraceServices (687)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (684)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (682)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module InputBindingEditor (680)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module MergeActors (678)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (676)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module LocalizationService (675)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module HardwareTargeting (672)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (670)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module UndoHistory (668)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module XmlParser (666)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module Blutility (664)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (662)
+[2024.03.04-00.02.59:976][516]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (661)
+[2024.03.04-00.02.59:977][516]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (658)
+[2024.03.04-00.02.59:977][516]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (657)
+[2024.03.04-00.02.59:977][516]LogModuleManager: Shutting down and abandoning module SettingsEditor (654)
+[2024.03.04-00.02.59:977][516]LogModuleManager: Shutting down and abandoning module ProjectLauncher (652)
+[2024.03.04-00.02.59:977][516]LogModuleManager: Shutting down and abandoning module SessionFrontend (650)
+[2024.03.04-00.02.59:977][516]LogModuleManager: Shutting down and abandoning module ProfilerClient (648)
+[2024.03.04-00.02.59:977][516]LogModuleManager: Shutting down and abandoning module DeviceManager (646)
+[2024.03.04-00.02.59:977][516]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (645)
+[2024.03.04-00.03.00:010][516]LogModuleManager: Shutting down and abandoning module AutomationController (642)
+[2024.03.04-00.03.00:010][516]LogModuleManager: Shutting down and abandoning module AutomationWindow (640)
+[2024.03.04-00.03.00:010][516]LogModuleManager: Shutting down and abandoning module Layers (638)
+[2024.03.04-00.03.00:010][516]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (636)
+[2024.03.04-00.03.00:010][516]LogModuleManager: Shutting down and abandoning module DetailCustomizations (634)
+[2024.03.04-00.03.00:012][516]LogModuleManager: Shutting down and abandoning module PackagesDialog (632)
+[2024.03.04-00.03.00:012][516]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (630)
+[2024.03.04-00.03.00:012][516]LogModuleManager: Shutting down and abandoning module Persona (628)
+[2024.03.04-00.03.00:012][516]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (627)
+[2024.03.04-00.03.00:012][516]LogModuleManager: Shutting down and abandoning module AnimGraph (625)
+[2024.03.04-00.03.00:012][516]LogModuleManager: Shutting down and abandoning module Kismet (622)
+[2024.03.04-00.03.00:031][516]LogModuleManager: Shutting down and abandoning module KismetWidgets (621)
+[2024.03.04-00.03.00:031][516]LogModuleManager: Shutting down and abandoning module GraphEditor (618)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module StructViewer (616)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module ClassViewer (614)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module Toolbox (612)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module ModuleUI (610)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module OutputLog (608)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module GammaUI (606)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module Documentation (604)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module LiveCoding (602)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module LevelSequence (600)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (598)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module MovieScene (596)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (594)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module LauncherPlatform (592)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module AnalyticsET (590)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module PortalServices (588)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module PortalRpc (586)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module MessagingRpc (584)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (582)
+[2024.03.04-00.03.00:032][516]LogModuleManager: Shutting down and abandoning module AudioMixerCore (581)
+[2024.03.04-00.03.00:033][516]LogModuleManager: Shutting down and abandoning module AIModule (578)
+[2024.03.04-00.03.00:033][516]LogModuleManager: Shutting down and abandoning module GameplayDebugger (577)
+[2024.03.04-00.03.00:033][516]LogModuleManager: Shutting down and abandoning module AITestSuite (575)
+[2024.03.04-00.03.00:033][516]LogModuleManager: Shutting down and abandoning module NavigationSystem (573)
+[2024.03.04-00.03.00:033][516]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (570)
+[2024.03.04-00.03.00:033][516]LogModuleManager: Shutting down and abandoning module ProfilerService (568)
+[2024.03.04-00.03.00:280][516]LogModuleManager: Shutting down and abandoning module TaskGraph (566)
+[2024.03.04-00.03.00:280][516]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (564)
+[2024.03.04-00.03.00:280][516]LogModuleManager: Shutting down and abandoning module OculusEditor (562)
+[2024.03.04-00.03.00:280][516]LogModuleManager: Shutting down and abandoning module OculusInput (560)
+[2024.03.04-00.03.00:280][516]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (558)
+[2024.03.04-00.03.00:280][516]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (556)
+[2024.03.04-00.03.00:281][516]LogModuleManager: Shutting down and abandoning module CollectionManager (555)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module SynthesisEditor (552)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module Synthesis (550)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module ScreenshotTools (548)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (546)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (544)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (542)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module GooglePAD (540)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module EditableMesh (538)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (536)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module CableComponent (534)
+[2024.03.04-00.03.00:282][516]LogModuleManager: Shutting down and abandoning module AssetTags (532)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module AudioCapture (530)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (529)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (526)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (524)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module AppleImageUtils (522)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module AndroidPermission (520)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (518)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (516)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module TemplateSequence (514)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MediaCompositing (512)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module ImgMedia (510)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (508)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (506)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (504)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (502)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (500)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (498)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (496)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MotoSynth (494)
+[2024.03.04-00.03.00:283][516]LogModuleManager: Shutting down and abandoning module MeshConversion (492)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module DynamicMesh (490)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (488)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometricObjects (486)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (484)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (483)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (480)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (478)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (476)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (474)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (472)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module ChaosNiagara (470)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module FractureEditor (468)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (467)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (464)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (462)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module BackChannel (460)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (458)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module AutomationUtils (456)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module AlembicImporter (454)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module AlembicLibrary (453)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryCache (452)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (451)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (446)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (444)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module PluginBrowser (442)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (440)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (438)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (436)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module CryptoKeys (434)
+[2024.03.04-00.03.00:284][516]LogModuleManager: Shutting down and abandoning module CurveEditorTools (432)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (430)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (428)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module UObjectPlugin (426)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module PluginUtils (424)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (422)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (420)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (418)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (416)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module GitSourceControl (414)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module SourceControl (413)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (410)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (408)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (406)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (404)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (402)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module Paper2DEditor (400)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (398)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (396)
+[2024.03.04-00.03.00:285][516]LogModuleManager: Shutting down and abandoning module UdpMessaging (394)
+[2024.03.04-00.03.00:387][516]LogModuleManager: Shutting down and abandoning module TcpMessaging (392)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module SoundFields (390)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module SignificanceManager (388)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (386)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (384)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (382)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (378)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (376)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (374)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (372)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module ApexDestruction (370)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module ActorSequence (368)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (366)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (364)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (362)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (360)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (358)
+[2024.03.04-00.03.00:488][516]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (356)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (354)
+[2024.03.04-00.03.00:488][516]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (352)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (350)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module MagicLeapController (348)
+[2024.03.04-00.03.00:489][516]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (346)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module MagicLeapAR (344)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module AugmentedReality (343)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (340)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module Niagara (338)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module SignalProcessing (337)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module NiagaraEditor (335)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module NiagaraCore (332)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (330)
+[2024.03.04-00.03.00:489][516]LogModuleManager: Shutting down and abandoning module LevelEditor (329)
+[2024.03.04-00.03.00:490][516]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (328)
+[2024.03.04-00.03.00:490][516]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (326)
+[2024.03.04-00.03.00:490][516]LogModuleManager: Shutting down and abandoning module MainFrame (324)
+[2024.03.04-00.03.00:491][516]LogModuleManager: Shutting down and abandoning module HotReload (323)
+[2024.03.04-00.03.00:491][516]LogModuleManager: Shutting down and abandoning module ToolMenus (319)
+[2024.03.04-00.03.00:491][516]LogModuleManager: Shutting down and abandoning module TreeMap (317)
+[2024.03.04-00.03.00:491][516]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (314)
+[2024.03.04-00.03.00:491][516]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (312)
+[2024.03.04-00.03.00:491][516]LogModuleManager: Shutting down and abandoning module FacialAnimation (310)
+[2024.03.04-00.03.00:491][516]LogModuleManager: Shutting down and abandoning module DataValidation (308)
+[2024.03.04-00.03.00:491][516]LogModuleManager: Shutting down and abandoning module ContentBrowser (307)
+[2024.03.04-00.03.00:492][516]LogModuleManager: Shutting down and abandoning module ContentBrowserData (306)
+[2024.03.04-00.03.00:492][516]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (302)
+[2024.03.04-00.03.00:492][516]LogModuleManager: Shutting down and abandoning module AnimationSharing (300)
+[2024.03.04-00.03.00:492][516]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (298)
+[2024.03.04-00.03.00:492][516]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (296)
+[2024.03.04-00.03.00:492][516]LogModuleManager: Shutting down and abandoning module Paper2D (294)
+[2024.03.04-00.03.00:492][516]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (292)
+[2024.03.04-00.03.00:492][516]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (290)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (288)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module PacketHandler (286)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (284)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (282)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module MediaAssets (280)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module Overlay (278)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module OverlayEditor (277)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module VREditor (274)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module StringTableEditor (272)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (270)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (268)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module FunctionalTesting (266)
+[2024.03.04-00.03.00:494][516]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (264)
+[2024.03.04-00.03.00:495][516]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (263)
+[2024.03.04-00.03.00:495][516]LogModuleManager: Shutting down and abandoning module UMG (260)
+[2024.03.04-00.03.00:495][516]LogModuleManager: Shutting down and abandoning module UMGEditor (259)
+[2024.03.04-00.03.00:495][516]LogModuleManager: Shutting down and abandoning module MessageLog (257)
+[2024.03.04-00.03.00:495][516]LogModuleManager: Shutting down and abandoning module SlateReflector (252)
+[2024.03.04-00.03.00:495][516]LogModuleManager: Shutting down and abandoning module Slate (250)
+[2024.03.04-00.03.00:495][516]LogModuleManager: Shutting down and abandoning module SlateCore (248)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (246)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module UnrealEd (244)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module MRMesh (242)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (240)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (238)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module XAudio2 (236)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module Networking (234)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module Core (232)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module MaterialEditor (230)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module MovieSceneTools (228)
+[2024.03.04-00.03.00:496][516]LogModuleManager: Shutting down and abandoning module CurveEditor (227)
+[2024.03.04-00.03.00:497][516]LogModuleManager: Shutting down and abandoning module Sequencer (225)
+[2024.03.04-00.03.00:497][516]LogModuleManager: Shutting down and abandoning module EditorStyle (224)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module KismetCompiler (220)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module MeshBuilder (218)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module MeshUtilities (216)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (215)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (214)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (213)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (211)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (209)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (207)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module MaterialBaking (203)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (198)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module DerivedDataCache (196)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module TargetPlatform (194)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (193)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (191)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (189)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (187)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (185)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (183)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (181)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (179)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (177)
+[2024.03.04-00.03.00:498][516]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (175)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (173)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module ImageWrapper (172)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (169)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (167)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (165)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (163)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (161)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (159)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (157)
+[2024.03.04-00.03.00:499][516]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (155)
+[2024.03.04-00.03.00:500][516]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (153)
+[2024.03.04-00.03.00:500][516]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (151)
+[2024.03.04-00.03.00:500][516]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (149)
+[2024.03.04-00.03.00:500][516]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (147)
+[2024.03.04-00.03.00:500][516]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (145)
+[2024.03.04-00.03.00:500][516]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (143)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (141)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (139)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (137)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (135)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (133)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (131)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module Messaging (129)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (127)
+[2024.03.04-00.03.00:501][516]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (125)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (123)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module InputCore (120)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module Settings (118)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (116)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module PhysXCooking (114)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module Chaos (112)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (110)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (109)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module AVEncoder (108)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (104)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module SteamVRInput (102)
+[2024.03.04-00.03.00:506][516]LogModuleManager: Shutting down and abandoning module SteamVR (100)
+[2024.03.04-00.03.00:506][516]LogHMD: Freeing OpenVRDLLHandle.
+[2024.03.04-00.03.00:507][516]LogModuleManager: Shutting down and abandoning module OculusHMD (98)
+[2024.03.04-00.03.00:507][516]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (96)
+[2024.03.04-00.03.00:507][516]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (92)
+[2024.03.04-00.03.00:507][516]LogModuleManager: Shutting down and abandoning module ChunkDownloader (90)
+[2024.03.04-00.03.00:507][516]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (88)
+[2024.03.04-00.03.00:507][516]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (86)
+[2024.03.04-00.03.00:512][516]LogModuleManager: Shutting down and abandoning module XMPP (81)
+[2024.03.04-00.03.00:512][516]LogModuleManager: Shutting down and abandoning module WebSockets (80)
+[2024.03.04-00.03.00:532][516]LogModuleManager: Shutting down and abandoning module HTTP (77)
+[2024.03.04-00.03.00:532][516]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2024.03.04-00.03.00:532][516]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B71D9C066-4416-FE7D-260F-C78A4A8B64BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=9cc8743948401c9948a0a5a36c10a82b%7C14ee2791417b4f07bc9caf11ea35cacb%7C5838871e-bcb5-4214-940f-ce33bb285373&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.03.04-00.03.00:532][516]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2024.03.04-00.03.00:549][516]LogModuleManager: Shutting down and abandoning module SSL (76)
+[2024.03.04-00.03.00:551][516]LogModuleManager: Shutting down and abandoning module WmfMedia (72)
+[2024.03.04-00.03.00:556][516]LogModuleManager: Shutting down and abandoning module Media (71)
+[2024.03.04-00.03.00:557][516]LogModuleManager: Shutting down and abandoning module MediaInfo (70)
+[2024.03.04-00.03.00:557][516]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (66)
+[2024.03.04-00.03.00:558][516]LogModuleManager: Shutting down and abandoning module MLSDK (64)
+[2024.03.04-00.03.00:558][516]LogModuleManager: Shutting down and abandoning module MagicLeap (62)
+[2024.03.04-00.03.00:558][516]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2024.03.04-00.03.00:558][516]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2024.03.04-00.03.00:558][516]LogModuleManager: Shutting down and abandoning module ChaosCloth (56)
+[2024.03.04-00.03.00:558][516]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2024.03.04-00.03.00:558][516]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (46)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (44)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module PlatformCrypto (42)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module XGEController (40)
+[2024.03.04-00.03.00:559][516]LogXGEController: Cleaning working directory: C:/Users/RazRa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module AudioEditor (36)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2024.03.04-00.03.00:559][516]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2024.03.04-00.03.00:560][516]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2024.03.04-00.03.00:560][516]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2024.03.04-00.03.00:560][516]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2024.03.04-00.03.00:562][516]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2024.03.04-00.03.00:562][516]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2024.03.04-00.03.00:562][516]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.03.04-00.03.00:563][516]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.03.04-00.03.00:563][516]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.03.04-00.03.00:565][516]LogD3D11RHI: Shutdown
+[2024.03.04-00.03.00:565][516]LogD3D11RHI: CleanupD3DDevice
+[2024.03.04-00.03.00:594][516]LogD3D11RHI: Intel Extensions Framework unloaded
+[2024.03.04-00.03.00:614][516]LogExit: Exiting.
+[2024.03.04-00.03.00:619][516]Log file closed, 03/03/24 16:03:00
